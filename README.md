@@ -18,6 +18,7 @@ The project demonstrates a **real-world end-to-end analytics workflow**, includi
 
 ## Data gathering
 - from kaggle (sample data set uploaded)
+   https://www.kaggle.com/datasets/regivm/retailtransactiondata
 
 ## End-to-End Workflow
 

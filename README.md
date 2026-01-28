@@ -80,7 +80,7 @@ Queries were reviewed, understood, and validated manually.
 
 ---
 
-## Advanced Analytics
+## Advanced Analytics (Python)
 - RFM Analysis
 - Cohort Analysis:
   - Customer churn

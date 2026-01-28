@@ -16,6 +16,9 @@ The project demonstrates a **real-world end-to-end analytics workflow**, includi
 
 ---
 
+## Data gathering
+- from kaggle (sample data set uploaded)
+
 ## End-to-End Workflow
 
 ### 1. Database Setup (SQL Server – SSMS)
